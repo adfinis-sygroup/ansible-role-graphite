@@ -1,6 +1,7 @@
 ---
 
 graphite_requirements:
+  - gcc
   - python34-pip
   - python34-devel
   - python34-cairo
